@@ -12,6 +12,7 @@ This work is class project for Human Computer Interaction class in Winter semest
  - PlantVillage dataset: 39 different classes of plant leaf and background images are available. Data-set contains 61,486 images and uses 6 different augmentation techniques (including image flipping, Gamma correction, noise injection, PCA color augmentation, rotation, and Scaling) for increasing the data-set size.
 - To provide explanations for users, we collect data on diseases including: The description of symptoms, and effects on plants corresponding to the diseases already in the training dataset. (done)
 - Link for describe [here ](docs.google.com/spreadsheets/d/1LBSx0iScU1mXUoYgMPJ8iS_8pSCSsUASgQjYUXlCDXk/)
+- The datasets and the pretrain models are available [here](https://drive.google.com/drive/folders/19LRiVJIrKB4buy0xxAyITqSKn7KUk0o_?usp=sharing)
 
 [//]: # (![plant-sample]&#40;misc/plant-sample.png&#41;{width=400 height=2000})
 
